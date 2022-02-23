@@ -1,0 +1,380 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An heroick poem to the King, upon the arrival of the Morocco and Bantam embassadors, to His Majesty of Great Britain, in the year 1682</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43438</idno>
+            <idno type="STC">Wing H1588</idno>
+            <idno type="STC">ESTC R10689</idno>
+            <idno type="EEBO-CITATION">11821195</idno>
+            <idno type="OCLC">ocm 11821195</idno>
+            <idno type="VID">49567</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49567)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 496:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An heroick poem to the King, upon the arrival of the Morocco and Bantam embassadors, to His Majesty of Great Britain, in the year 1682</title>
+               </titleStmt>
+               <extent>[2], 8 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Francis Hicks ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:49567:1"/>
+               <pb facs="tcp:49567:1" rendition="simple:additions"/>
+AN HEROICK POEM TO THE KING, Upon the Arrival of the Morocco and Bantam EMBASSADORS, TO HIS MAJESTY OF GREAT BRITAIN, In the Year 1682.</p>
+            <q>
+               <hi>Et penitus toto jam notos orbe Britannos.</hi>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Francis Hicks,</hi> Bookſeller in <hi>Cambridge.</hi> M DC LXXXII.</p>
+            <pb facs="tcp:49567:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:49567:2"/>
+            <head>AN HEROICK POEM TO THE KING, Upon the Arrival of the Morocco and Bantam EMBASSADORS, TO HIS <hi>Majeſty of Great Britain.</hi> In the Year 1682.</head>
+            <l>HAil, God-like <hi>Charles!</hi> the Genius of our Land,</l>
+            <l>Who, like the Cherub, o're our <hi>Eden</hi> ſtand,</l>
+            <l>The Gods beſt Gift, the Darling of the Fates,</l>
+            <l>The great <hi>Palladium</hi> of Three ſinking States;</l>
+            <l>When War, that raging Dog-Star, long had kept</l>
+            <l>The Day, and, like ſome bloody Comet, ſwept</l>
+            <l>And travers'd all the Skies long ſpacious Stage,</l>
+            <l>And fainting <hi>Albion</hi> bent beneath its rage,</l>
+            <l>
+               <pb facs="tcp:49567:3"/>
+               <pb n="2" facs="tcp:49567:3"/>
+You by relenting Gods was ſent from Heaven,</l>
+            <l>Like Health and Eaſe to ſickly Mortals given.</l>
+            <l>Welcome as new-ſprung Light, or dawning Day</l>
+            <l>To Gloomy Souls after a half years ſtay;</l>
+            <l>Like Men in <hi>Greenland,</hi> (when your Martyr'd Sire</l>
+            <l>Too good for Earth, to Heaven did retire;</l>
+            <l>When his declining Sun Blood-red went down)</l>
+            <l>A tedious live-long Night uſurpt our Noon.</l>
+            <l>No pitying Ray was ſeen, no heavenly Spark,</l>
+            <l>But groaping on, we ſtumbled in the Dark:</l>
+            <l>Thoſe petty Stars that ſhin'd with borrow'd light,</l>
+            <l>The Sun being gone, but ſhew'd that it was Night.</l>
+            <l>Diſgrac'd and ſullied was fair <hi>Albions</hi> Face,</l>
+            <l>Horrid Confuſion crept o're every Grace,</l>
+            <l>And in each Feature proudly ſat and Reign'd,</l>
+            <l>The Frightful <hi>Daemon</hi> ſtalk't thro' all the Land.</l>
+            <l>Bold <hi>Anarchy</hi> did over all controul,</l>
+            <l>Our giddy World ſtagger'd from Pole to Pole.</l>
+            <l>And in this loneſom Waſte of Nature we,</l>
+            <l>Treading the Mazes of blind Deſtiny,</l>
+            <l>Had wander'd ſtill; but Heaven meant us Reſt,</l>
+            <l>And ſending You, <hi>For Ever</hi> (ſaid) <hi>be bleſt;</hi>
+            </l>
+            <l>Your Genial Warmth, and all-enlivening Wings,</l>
+            <l>When once ſpread o're this rumpled <hi>Maſs</hi> of things,</l>
+            <l>It's ſtrange Prolifick Heat did ſoon diſpence,</l>
+            <l>And from its Womb bid a new World commence.</l>
+            <l>And now a Glorious Orb of Light did riſe</l>
+            <l>From out this Chaos; in the <hi>Eaſtern</hi> Skies</l>
+            <l>The ſcatter'd Seeds of Day with haſte did run,</l>
+            <l>And fill'd their Ranks, to meet the New-born Sun.</l>
+            <l>Treaſon and Faction left their Station quite,</l>
+            <l>And all th' Infernal Goblins of the Night</l>
+            <l>
+               <pb facs="tcp:49567:4"/>
+               <pb n="3" facs="tcp:49567:4"/>
+Scatter'd like Miſts, and trembling march'd away</l>
+            <l>As ſtragling Spirits at the ſight of Day.</l>
+            <l>The Waters thus abated off the Ground</l>
+            <l>(That with loud Ruine did our World confound)</l>
+            <l>The Ark ſtood ſtill, ſo long to Seas confin'd,</l>
+            <l>And to the Shore its Royal Charge reſign'd.</l>
+            <l>Now Loyalty firm Land and Footing found,</l>
+            <l>And <hi>Io Carole</hi> thro' all the Iſle did ſound;</l>
+            <l>The Land loud Peals of Joy to th' Ocean ſent,</l>
+            <l>The <hi>rageing Sea</hi> ſtood ſtill, and <hi>wondred</hi> what it meant;</l>
+            <l>The Revelling <hi>Winds</hi> did ſtraight give o're their <hi>play,</hi>
+            </l>
+            <l>And gentle Breezes kiſs'd the Watry way.</l>
+            <l>Thus, <hi>Sacred Sir,</hi> broke from that envious Cloud,</l>
+            <l>Whoſe ſullen Veil your Glories once did ſhroud,</l>
+            <l>In a ſerene compoſed Skie you play,</l>
+            <l>And ride triumphantly the God of Day;</l>
+            <l>Thus having left your Sufferings far behind,</l>
+            <l>You live a laſting Bleſſing to Mankind.</l>
+            <l>See how the wondring World with eager pace</l>
+            <l>(Joy in their Eyes, Amazement in their Face)</l>
+            <l>Move forward, brought by mighty <hi>Charles</hi> his <hi>Name,</hi>
+            </l>
+            <l>(The Worlds grand Talk, the <hi>Common Place</hi> of <hi>Fame)</hi>
+            </l>
+            <l>The Swarthy <hi>Indian</hi> and the Tawny <hi>Moor</hi>
+            </l>
+            <l>View Seas and Skies they never knew before:</l>
+            <l>With willing haſte they leave their Heat and Fire,</l>
+            <l>And to this corner of the <hi>Worlds</hi> great Houſe retire,</l>
+            <l>Where Winter rages, and the <hi>Nothern</hi> Bear,</l>
+            <l>And angry Clouds ſit on the Brow of Air;</l>
+            <l>To bask 'em in Great <hi>Charles</hi> his Beams they run,</l>
+            <l>Not half ſo bleſt in their <hi>Meridian Sun.</hi>
+            </l>
+            <l>The <hi>Moor,</hi> who long incloſed had been pent</l>
+            <l>Within parch't <hi>Africa's</hi> dull Continent,</l>
+            <l>
+               <pb facs="tcp:49567:5"/>
+               <pb n="4" facs="tcp:49567:5"/>
+Whoſe untaught Hands did ſeldom ply the Oar,</l>
+            <l>And trembling always crept along the Shore,</l>
+            <l>Fir'd at the noiſe of the fam'd <hi>Britiſh</hi> Land,</l>
+            <l>His active Soul diſdains the lazy Sand,</l>
+            <l>And lanching forth, he plows th' <hi>Atlantick</hi> Main,</l>
+            <l>Does boldly ſtrive the Northern Pole to gain,</l>
+            <l>And reach thoſe wondrous <hi>Magazins</hi> of <hi>Hail</hi> &amp; <hi>Rain.</hi>
+            </l>
+            <l>Our skill in Arms they long ſince underſtood,</l>
+            <l>'Twas writ in fatal Characters of Blood;</l>
+            <l>This Truth they learnt on <hi>Tangiers</hi> noble Plains,</l>
+            <l>Strow'd thick with <hi>Limbs,</hi> beſmear'd with <hi>diſmal ſtains.</hi>
+            </l>
+            <l>Our thundring Cannons warlike voice they'd heard,</l>
+            <l>And much its ſound, but more its breath they fear'd,</l>
+            <l>Whoſe poyſonous Influence does as ſurely wound,</l>
+            <l>As that which in their Baſilisk is found.</l>
+            <l>Now as in War themſelves outdone they ſee,</l>
+            <l>They fain wou'd find it ſo in Courteſie,</l>
+            <l>Wou'd ſtrait grow proud the <hi>Apoſtles</hi> they might be</l>
+            <l>Their Nation to convert to Manners and Civility.</l>
+            <l>Their Neighbour-Iſlands (long ſince out of date)</l>
+            <l>Purblind Antiquity call'd <hi>Fortunate;</hi>
+            </l>
+            <l>But there the wanton Sun with too much Day</l>
+            <l>(Like your fond Mothers who their Babes o'relay)</l>
+            <l>Does reign, and all his boiling Globe diſplay,</l>
+            <l>And kiſſes their Complexion quite away.</l>
+            <l>But here, they ſay's the place deſign'd by Fate,</l>
+            <l>The Seat of all that's Fortunate or Great.</l>
+            <l>Our beauteous Iſle her Glories does diſplay,</l>
+            <l>And ſeems to put the other Earth away.</l>
+            <l>So lay <hi>Peru,</hi> with all the Weſtern World,</l>
+            <l>Before the greedy <hi>Spaniard</hi> dreamt of Gold</l>
+            <l>In rich <hi>Potozi</hi>'s Mines.</l>
+            <l>
+               <pb facs="tcp:49567:6"/>
+               <pb n="5" facs="tcp:49567:6"/>
+Plenty thro' all the Nation you may read,</l>
+            <l>The burden'd Corn hangs down its aged Head,</l>
+            <l>And Courts the Sickle; whilſt abroad 'tis found</l>
+            <l>The Swain's own Corps does oft manure his <hi>Ground.</hi>
+            </l>
+            <l>Conſuming want, with all her tatter'd Train,</l>
+            <l>In other Lands, and new-found Worlds, does Reign.</l>
+            <l>Peace is our Portion; none dare Whiſper Wars,</l>
+            <l>And Love uſurps upon our home-bread Jarrs.</l>
+            <l>The <hi>Britiſh</hi> Oak bravely rides Admiral</l>
+            <l>Amidſt the Floating Foreſt, every Sail</l>
+            <l>Pays Homage to this God o'th' Watry Main,</l>
+            <l>And all, like Pleaſure-Boats, make up the Train.</l>
+            <l>When all the World beſide blind Error led,</l>
+            <l>And pure Religion, frighted, from it fled,</l>
+            <l>Our Land leapt up, and like another <hi>Dele</hi>
+            </l>
+            <l>The wandring Goddeſs took, <hi>and us'd her well.</hi>
+            </l>
+            <l>Bleſt in all theſe, but doubly bleſt in thee</l>
+            <l>(Of all that's Good the true Epitome)</l>
+            <l>Great <hi>Charles,</hi> our Faith's Defender and our Laws,</l>
+            <l>From all-deſigning <hi>Rome</hi>'s inſatiate Jaws,</l>
+            <l>From the ſly Monſter of the <hi>Lemane</hi> Lake,</l>
+            <l>That at our Happineſs ſuch Thruſts does make.</l>
+            <l>Pity ſuch Virtue ſhou'd Confinement ſee,</l>
+            <l>But Odour-like ſcatter its Fragrancy;</l>
+            <l>As if too much for us, juſt Heaven takes care</l>
+            <l>In the vaſt Bleſſing every Land ſhou'd ſhare;</l>
+            <l>The <hi>World's</hi> too ſmall; you have out-travell'd Fame,</l>
+            <l>And reach'd thoſe Countries where ſhe never came;</l>
+            <l>The Journey but half done, her Pinions flagg'd,</l>
+            <l>Thus after the <hi>Pellaean</hi> Youth ſhe lagg'd;</l>
+            <l>VVhat tho' a hundred Tongues ſhe can run o're,</l>
+            <l>Our mighty Monarch's ſpoken of in more.</l>
+            <l>
+               <pb facs="tcp:49567:7"/>
+               <pb n="6" facs="tcp:49567:7"/>
+The Weſtern World has long endur'd our Yoke;</l>
+            <l>In <hi>Africa</hi> our Language too is ſpoke;</l>
+            <l>Haughty <hi>Algire</hi> now humbly ſues for Peace,</l>
+            <l>From Blood and War ſhe begs a full Releaſe.</l>
+            <l>But ſee how <hi>Aſia</hi> comes, and does adore,</l>
+            <l>Emptying her Lap of Riches on our Shore;</l>
+            <l>So 'tis; the ſcattering light with them has been,</l>
+            <l>They in the Eaſt your Glorious Star have ſeen.</l>
+            <l>Thus with an eaſier Conqueſt you have gain'd</l>
+            <l>The <hi>Indies,</hi> than the <hi>Spaniard,</hi> or the feign'd</l>
+            <l>Great God of Wine; he went, and overcame;</l>
+            <l>You ſit at home, and yet can do the ſame.</l>
+            <l>The <hi>Indians</hi> daily view the Riſing Sun,</l>
+            <l>Exactly know where he his March begun;</l>
+            <l>But long had wiſh'd for that more curious Sight,</l>
+            <l>Where he Lights Mantle throws off every Night,</l>
+            <l>Where he is wont to ſet his wearied Steeds,</l>
+            <l>Whether on Land they feed, or graze in Heavenly Meads.</l>
+            <l>Much had they heard, and long had underſtood,</l>
+            <l>Of <hi>Phoebus</hi> plunging in the Weſtern Flood;</l>
+            <l>But that was all—when now a Thought begun</l>
+            <l>To work, which was to travel with the Sun.</l>
+            <l>After a tedious March, they ſaw him ſtand</l>
+            <l>Over our Weſtern Seas and <hi>Britiſh</hi> Land.</l>
+            <l>This, like the Eaſtern <hi>Magi,</hi> they conclude</l>
+            <l>To be the Glorious place of his Abode;</l>
+            <l>Their coſtly Preſents here they ſtraight unfold,</l>
+            <l>The Pearl, the Diamond, and Almighty Gold;</l>
+            <l>Before our Monarchs Feet are pour'd and hurl'd</l>
+            <l>The ſhining Entrails of the Eaſtern World.</l>
+            <l>
+               <pb facs="tcp:49567:8"/>
+               <pb n="7" facs="tcp:49567:8"/>
+               <hi>India</hi> her Coral hither does command,</l>
+            <l>And Groves of <hi>Ebony</hi> tranſplanted here do ſtand,</l>
+            <l>Th' exhauſted Treaſures both of Sea and Land.</l>
+            <l>Let <hi>Portugal</hi> o're <hi>Tagus</hi> Flood Command,</l>
+            <l>Their Country Rivers roll o're Richer Sands.</l>
+            <l>Thus <hi>Sheba</hi>'s Queen, from the remoteſt Shore</l>
+            <l>Of all <hi>Arabia</hi>'s bleſſed Land, through ſtore</l>
+            <l>Of parched Sands, and loneſom Deſarts paſt,</l>
+            <l>Till <hi>Zions</hi> glittering Towers ſhe ſpy'd at laſt;</l>
+            <l>What tho' her Land a Bed of Spices were,</l>
+            <l>And fragrant Atoms floated in the Air?</l>
+            <l>What tho' <hi>Apollo</hi>'s Bird here makes her Neſt?</l>
+            <l>(Our Maſter by his Choice would have expreſt,</l>
+            <l>That Learned Men like that ſhall ever live,</l>
+            <l>And in their Urns a Deathleſs name preſerve)</l>
+            <l>A greater Miracle her Progreſs Crown'd,</l>
+            <l>When ſhe <hi>Jeſſides</hi> God-like Son had found;</l>
+            <l>Thro' <hi>Salem</hi>'s thronged Streets with gazing ſpent,</l>
+            <l>She paſs'd along, and wondred as ſhe went;</l>
+            <l>
+               <hi>Streets</hi> pav'd with Men, and <hi>Windows</hi> ſtor'd with Eyes,</l>
+            <l>Their Meen, their Garb, their goodly Palaces</l>
+            <l>Did half confound her Sight; but this was nought,</l>
+            <l>Ye Gods<hi>!</hi> to what the Charming Stranger ſought</l>
+            <l>In <hi>Solomon;</hi> her Senſe with wondrous Art</l>
+            <l>All o're him run, yet ſeem'd to dwell on every part.</l>
+            <l>"Thrice happy, ſaid the faireſt Queen, and bleſt</l>
+            <l>"Are ye his Lords, who are his daily Gueſts,</l>
+            <l>"Who hear thoſe Oracles and Charming Sounds,</l>
+            <l>"That with ſuch <hi>pleaſure</hi> ſtrikes, and <hi>ſweetneſs</hi> wounds;</l>
+            <l>"You who a Wiſe and Gracious Prince do know,</l>
+            <l>"The two beſt Gifts that Heaven can beſtow.</l>
+            <l>So ſpake the Queen.</l>
+            <l>
+               <pb facs="tcp:49567:9"/>
+               <pb n="8" facs="tcp:49567:9"/>
+Thus, <hi>Great Sir,</hi> like that VViſe Man you Reign,</l>
+            <l>Above what e're Antiquity cou'd feign;</l>
+            <l>And if a Muſe can ought of promiſe give,</l>
+            <l>Like him in after Ages you ſhall live.</l>
+            <l>Mean while the <hi>Dutchman, Mounſier,</hi> and the <hi>Dane</hi>
+            </l>
+            <l>Stand off to view the Pompous, Gawdy Train;</l>
+            <l>In vain they Fret, in vain the Nations Rail,</l>
+            <l>To ſee the <hi>Indies</hi> down our River Sail.</l>
+            <l>Thus <hi>Rome</hi> of old with Foreign Nations ſwarm'd,</l>
+            <l>From every Land, from every Coaſt alarm'd,</l>
+            <l>At her Luxuriant growth; their Tribute here</l>
+            <l>At this great Shrine they paid with awful fear;</l>
+            <l>At Great <hi>Aguſtus</hi> Name the <hi>Parthian</hi> ſhook,</l>
+            <l>With Reverence bow'd, and his Steel Bow forſook;</l>
+            <l>None cou'd endure the <hi>Roman</hi> Eagles ſight,</l>
+            <l>The <hi>Mede,</hi> the <hi>Scythian</hi> ſneak't like Birds of Night.</l>
+            <l>Tho' to the World many pretenders were,</l>
+            <l>'Twas he alone both Woo'd and Wedded her.</l>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
